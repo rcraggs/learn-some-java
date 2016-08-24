@@ -1,3 +1,6 @@
+
+Instructions on doing the Java bootcamp are here - [Bootcamp instructions](material/bootcamp-instructions.md)
+
 # Exercises
 
 1. debugging - run the tests to see the errors then fix them. **Done**
