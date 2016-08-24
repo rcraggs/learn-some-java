@@ -11,3 +11,12 @@
 - No comments on this. 
 
 
+# Java Core
+
+## Working with Collections
+
+refers to object equals method...
+
+- **Collections and type Safety** - Generics can be a complex topic, but for now all you need to know if that you almost always want to specify the type of objects that are allowed to be in your collections and you do it like this `ArrayList<String> variableName;`
+- **Collection Interface** - don't worry to much about references to inheriting from the collection interface - all it means that there is a set of functions you can call on any of the collection types (List, Set, etc)
+- **Java 8** - you can get away with not using these - they are just shortcuts to doing things on lists that you can use `ForEach` for.

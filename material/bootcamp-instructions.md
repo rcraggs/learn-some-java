@@ -28,10 +28,13 @@ If you have had any problems getting your Java environment or Gradle/Exercises s
 5. :cinema: VIDEO watch **Variables, Data Types and Math Operators** and **Conditional Logic, Looping and Arrays**
 6. :runner: EXERCISE Complete the `types-and-maths` exercise that you downloaded when following the instructions in Task 3 above. 
 7. :cinema: VIDEO watch watch **Conditional Logic, Looping and Arrays**
-8.  :runner: EXERCISE Complete exercises 4 to 9 (if to calculator)
+8. :runner: EXERCISE Complete exercises 4 to 9 ('if' to 'calculator')
 
 If you have any problems during these, let us know on slack
 
 [Optional] if you want to test your knowledge you could install the SoloLearn app or us it only. If you've one the above you should be able to complete the "Basic Concepts" section here - http://www.sololearn.com/Play/Java/#
 
+## Moving onto OO
 
+1. :cinema: VIDEO watch **Representing complex types with Objects**
+2. :runner: EXERCISE Complete exercise 10 and 11 (objects and object-array)
