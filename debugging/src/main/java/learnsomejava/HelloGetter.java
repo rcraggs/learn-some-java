@@ -1,8 +1,8 @@
 package learnsomejava;
 
-class Caller {
+class HelloGetter {
 
-  HelloWorldGenerator getHelloWorldFromObject() {    
+  HelloWorldGenerator getHelloWorldGenerator() {    
     HelloWorldGenerator hw = new HelloWorldGenerator();
     return hw;    
   }

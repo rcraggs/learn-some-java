@@ -19,6 +19,16 @@
 
 If you don't feel at all confident in Java you may want to start from the very beginning. Here is how we recommend you start. 
 
-1. :cinema: VIDEO what **Course Overview** and **Introduction and Setting up...** in Pluralsight. See [my notes on the videos](pluralsight-notes.md)
+1. :cinema: VIDEO watch **Course Overview** and **Introduction and Setting up...** in Pluralsight. See [my notes on the videos](pluralsight-notes.md)
+2. :construction_worker: TASK (If you haven't already) install Java and an IDE like instructed in the video. 
+3. :construction_worker: TASK As a break from this follow the instructions in this video to set up your machine for running the real exercises - https://youtu.be/P1nz1CMs90g
+
+If you have had any problems getting your Java environment or Gradle/Exercises set up - let us know in Slack
+
+4. :runner: EXERCISE Get the "return" exercise running as shown in the video above.
+5. :cinema: VIDEO watch **Variables, Data Types and Math Operators** and **Conditional Logic, Looping and Arrays**
+
+
+http://www.sololearn.com/Play/Java/#
 
 
