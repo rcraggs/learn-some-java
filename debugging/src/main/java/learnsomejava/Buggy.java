@@ -1,9 +1,13 @@
 package learnsomejava;
 
-class HelloGetter {
+class Buggy {
 
-  HelloWorldGenerator getHelloWorldGenerator() {    
-    HelloWorldGenerator hw = new HelloWorldGenerator();
-    return hw;    
+  String getHelloWorld() {    
+    return "Hello World"
+  }
+
+  String thisFunctionIsNeverCalledButNeedsToCompile() {
   }
 }
+
+This sentence makes it not work.
