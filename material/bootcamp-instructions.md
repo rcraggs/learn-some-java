@@ -38,3 +38,5 @@ If you have any problems during these, let us know on slack
 
 1. :cinema: VIDEO watch **Representing complex types with Objects**
 2. :runner: EXERCISE Complete exercise 10 and 11 (objects and object-array)
+1. :cinema: VIDEO watch **Class initialisers and contructors**
+2. :runner: EXERCISE go back to exercise 11 and remove the `setNumber()` method and instead use a constructor - check that the tests still pass.

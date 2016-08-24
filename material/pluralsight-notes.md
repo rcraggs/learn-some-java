@@ -6,10 +6,9 @@
 - Netbeans and Eclipse are available in the Computer Science labs. However, I prefer IntelliJ. As the video says, it really doesn't matter, although you may need to google how to do specific things in a particular IDE if you use different ones. 
 - You don't really need to watch the demos for both IntelliJ and Netbeans.
 
-## Creating a simple app
+## Class initializers and constructors
 
-- No comments on this. 
-
+- It's not that common to have one constructor call another. It's worth knowing but don't worry about the rules too much.
 
 # Java Core
 
