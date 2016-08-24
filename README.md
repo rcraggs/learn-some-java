@@ -8,3 +8,5 @@
 5. add-array - add all the numbers in an integer array [for loop, arithmetic]
 6. cast-double-to-int - return the double value as an integer [casting]
 7. calculator - return the result of applying an arithmetic operator to 2 values [switch, arithmetic]
+8. objects - Create an object with the right method [objects]
+9. objects access modifiers - fix the access modifiers to allow access outside of the package [objects, packages]

@@ -8,7 +8,7 @@ public class Tests {
 
     @Test
     public void runHelloWorldTest() throws Exception {
-        Buggy buggy = new Buggy();
-        assertEquals("Hello World", buggy.getHelloWorld());
+        HelloGetter getter = new HelloGetter();
+        assertEquals("Hello World", getter.getHelloWorldGenerator().getHelloWorld());
     }
 }
