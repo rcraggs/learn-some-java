@@ -22,4 +22,20 @@ public class Tests {
         assertEquals(3, learn.performIntegerArithmetic('/', 10, 3));
         assertEquals(1, learn.performIntegerArithmetic('/', 1, 1));
     }
+
+    @Test
+    public void TestSubtractIntegerValues() throws Exception {
+        Calculator learn = new Calculator();
+        assertEquals(8, learn.performIntegerArithmetic('-', 10, 2));
+        assertEquals(0, learn.performIntegerArithmetic('-', 10, 10));
+        assertEquals(-1, learn.performIntegerArithmetic('-', 1, 2));
+    }    
+
+    @Test
+    public void TestMultipleIntegerValues() throws Exception {
+        Calculator learn = new Calculator();
+        assertEquals(20, learn.performIntegerArithmetic('*', 10, 2));
+        assertEquals(100, learn.performIntegerArithmetic('*', 10, 10));
+        assertEquals(-1, learn.performIntegerArithmetic('*', 1, -1));
+    }      
 }
