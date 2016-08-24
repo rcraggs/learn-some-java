@@ -27,7 +27,9 @@ If you have had any problems getting your Java environment or Gradle/Exercises s
 
 4. :runner: EXERCISE Get the "return" exercise running as shown in the video above.
 5. :cinema: VIDEO watch **Variables, Data Types and Math Operators** and **Conditional Logic, Looping and Arrays**
-
+6. :runner: EXERCISE Complete the `types-and-maths` exercise that you downloaded when following the instructions in Task 3 above. 
+7. :cinema: VIDEO watch watch **Conditional Logic, Looping and Arrays**
+8. 
 
 http://www.sololearn.com/Play/Java/#
 
