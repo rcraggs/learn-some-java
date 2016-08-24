@@ -12,8 +12,7 @@
 
 1. Complete the quiz to assess your current level - Click the "Check Now" button here - https://app.pluralsight.com/paths/skills/java
 2. It would be good to post your score to the Slack channel, but if you don't feel about to, you can just send it to me in slack as a Direct Message - https://get.slack.help/hc/en-us/articles/212281468-Direct-messages-and-group-DMs
-3. 
-
+3. Unless Pluralsight is telling you that you are Proficient in Java then you should start on the "Absolute Beginner" section below. 
 
 ## Absolute Beginner
 
