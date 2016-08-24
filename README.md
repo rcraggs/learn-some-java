@@ -5,3 +5,5 @@
 3. array-length - return the length of an integer array [arrays]
 4. factorial - multiple all numbers from 1 to n [for loop, arithmetic]
 5. add-array - add all the numbers in an integer array [for loop, arithmetic]
+6. cast-double-to-int - return the double value as an integer [casting]
+7. calculator - return the result of applying an arithmetic operator to 2 values [switch, arithmetic]
