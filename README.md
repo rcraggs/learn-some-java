@@ -11,6 +11,6 @@ Instructions on doing the Java bootcamp are here - [Bootcamp instructions](mater
 6. array-length - return the length of an integer array [arrays]
 7. factorial - multiple all numbers from 1 to n [for loop, arithmetic]
 8. add-array - add all the numbers in an integer array [for loop, arithmetic]
-9. calculator - return the result of applying an arithmetic operator to 2 values [switch, arithmetic]
+9. calculator - return the result of applying an arithmetic operator to 2 values **Done** [switch, arithmetic]
 10. objects - Create an object with the right method **Done** [objects]
 11. objects-access-modifiers - fix the access modifiers to allow access outside of the package **Done** [objects, packages]
