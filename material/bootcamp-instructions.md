@@ -19,6 +19,6 @@
 
 If you don't feel at all confident in Java you may want to start from the very beginning. Here is how we recommend you start. 
 
-1. :cinema: VIDEO what **Course Overview** and **Introduction and Setting up...** in Pluralsight. See my notes 
+1. :cinema: VIDEO what **Course Overview** and **Introduction and Setting up...** in Pluralsight. See [my notes on the videos](pluralsight-notes.md)
 
 
