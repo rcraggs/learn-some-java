@@ -10,6 +10,10 @@
 
 - It's not that common to have one constructor call another. It's worth knowing but don't worry about the rules too much.
 
+## More about data types
+
+- **String Class** - something they don't mention here is that you can convert a String into an array of characters. This is very useful especially for the exercises you're going to do because you know how to loop over arrays. Look here for information on that - http://www.tutorialspoint.com/java/java_string_tochararray.htm
+- **String Equality** - What matters for you at the moment is that to compare two strings you usually want to do string1.equals(string2). Don't worry about `intern` at the moment.
 # Java Core
 
 ## Working with Collections

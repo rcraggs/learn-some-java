@@ -38,7 +38,33 @@ If you have any problems during these, let us know on slack
 
 1. :cinema: VIDEO watch **Representing complex types with Objects**
 2. :runner: EXERCISE Complete exercise 10 and 11 (objects and object-array)
-1. :cinema: VIDEO watch **Class initialisers and contructors**
-2. :runner: EXERCISE go back to exercise 11 and remove the `setNumber()` method and instead use a constructor - check that the tests still pass.
+3. :cinema: VIDEO watch **Class initialisers and contructors**
+4. :runner: EXERCISE go back to exercise 11 and remove the `setNumber()` method and instead use a constructor - check that the tests still pass.
+5. We will skip the "A Closer look at parameters" and "Class Inheritance" for now. These are useful when getting really OO, but there are more important practical things to learn first.
+6. :cinema: VIDEO watch **More about data types**
+7. :cinema: VIDEO We'll skip most of the videos and jump to **Static Members** in the **Static Members, Nested Types, etc** module. This is because some of the upcoming exercises use static members so you need to know this.
 
-We will skip the "A Closer look at parameters" and "Class Inheritance" for now. These are useful when getting really OO, but there are more important practical things to learn first.
+## Exercism Exercises Part 1
+
+We are now going to start using exercism.io for the exercises. Congratulations for getting to the stage where you can do this. All of the skills required for these exercises should have been contained in the videos. If you have any problems just ask.
+
+1. Go here and follow the instructions to install the CLI for Exercism [http://exercism.io/how-it-works/newbie](http://exercism.io/how-it-works/newbie).
+2. Start working through the exercises in the order below. We'll keep an eye out for your submissions to see where you need help. After submitting take a look at others' submission to see how others do it. 
+
+```
+I will insert a video demonstrating that here
+```
+
+- Hello World
+- Bob
+- Space Age
+- Raindrops
+- Hamming
+- Simple Linked Lists
+- Rna Transcription
+- Pig Latin
+- Binary
+- Linked Lists
+
+
+<!-- Equality in Class Inheritance in Java Fundamentals for Collections -->
