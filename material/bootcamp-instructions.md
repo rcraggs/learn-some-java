@@ -66,5 +66,14 @@ I will insert a video demonstrating that here
 - Binary
 - Linked Lists
 
+## Additional Exercises - Koans
 
-<!-- Equality in Class Inheritance in Java Fundamentals for Collections -->
+Now we've covered the basics of Java programming and some important stuff to do with Objects. The next big (and important) topic is Java collections. 
+
+Before you move onto that: there are still a lot of gaps regarding the Java language, that aren't covered in the videos or the exercises. These are things that you will just have to pick up as you go. However, one way to expose you to there is to work through the excellent exercises below. They cover a lot of what you've already seen, but also little things you've not. Go through them one by one and when you come across something unfamiliar, either ask, Google or check out Pluralsight. 
+
+Before you do the exercises, you will need to learn a little about the different ways in which we can check whether objects are the _same_.
+
+:cinema: VIDEO watch **Equality** in Class Inheritance in Java Fundamentals
+
+[Java Koans](https://github.com/matyb/java-koans)
