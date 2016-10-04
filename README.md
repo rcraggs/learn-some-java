@@ -1,13 +1,5 @@
 # Getting Started
 
-## Registration
-
-1. If you don't have a github account register one here www.github.com/join. 
-2. Sign in to exercise.io using your github account 
-3. Now send me your github account username so that I can add you to our exercism.io team.
-4. I will create you an account with Pluralsight that you should be able to log into using your university email address.
-5. I'll also invite you to join our Slack group chat - sign in and say hello.
-
 ## Getting yourself ready
 
 1. Complete the quiz to assess your current level - Click the "Check Now" button here - https://app.pluralsight.com/paths/skills/java
@@ -48,12 +40,15 @@ If you have any problems during these, let us know on slack
 
 We are now going to start using exercism.io for the exercises. Congratulations for getting to the stage where you can do this. All of the skills required for these exercises should have been contained in the videos. If you have any problems just ask.
 
+
+### Registering for Exercism
+
+To log into exercism.io you will need a github account. If you don't already have one then register here - [https://github.com/join](https://github.com/join). So that others can help you with the exercises you will be added to our [Java bootcamp team](http://exercism.io/teams/uoljavabootcamp/streams) within exercism. Post your github username into the [discussion forum post for this](https://blackboard.le.ac.uk/webapps/discussionboard/do/message?action=list_messages&forum_id=_62510_1&nav=discussion_board_entry&conf_id=_44215_1&course_id=_11642_1&message_id=_1076260_1#msg__1076260_1Id).
+
+### Completing the exercises
+
 1. Go here and follow the instructions to install the CLI for Exercism [http://exercism.io/how-it-works/newbie](http://exercism.io/how-it-works/newbie).
 2. Start working through the exercises in the order below. We'll keep an eye out for your submissions to see where you need help. After submitting take a look at others' submission to see how others do it. 
-
-```
-I will insert a video demonstrating that here
-```
 
 - Hello World
 - Bob
