@@ -3,7 +3,7 @@
 ## Getting yourself ready
 
 1. Complete the quiz to assess your current level - Click the "Check Now" button here - https://app.pluralsight.com/paths/skills/java
-2. It would be good to post your score to the Slack channel, but if you don't feel about to, you can just send it to me in slack as a Direct Message - https://get.slack.help/hc/en-us/articles/212281468-Direct-messages-and-group-DMs
+2. It would be good to post your score to the Blackboard discussion forum.
 3. Unless Pluralsight is telling you that you are Proficient in Java then you should start on the "Absolute Beginner" section below. 
 
 ## Absolute Beginner
@@ -14,7 +14,7 @@ If you don't feel at all confident in Java you may want to start from the very b
 2. :construction_worker: TASK (If you haven't already) install Java and an IDE like instructed in the video. 
 3. :construction_worker: TASK As a break from this follow the instructions in this video to set up your machine for running the real exercises - https://youtu.be/P1nz1CMs90g
 
-If you have had any problems getting your Java environment or Gradle/Exercises set up - let us know in Slack
+If you have had any problems getting your Java environment or Gradle/Exercises set up - let us know in the Blackboard forums.
 
 4. :runner: EXERCISE Get the "return" exercise running as shown in the video above.
 5. :cinema: VIDEO watch **Variables, Data Types and Math Operators** and **Conditional Logic, Looping and Arrays**
@@ -22,7 +22,7 @@ If you have had any problems getting your Java environment or Gradle/Exercises s
 7. :cinema: VIDEO watch watch **Conditional Logic, Looping and Arrays**
 8. :runner: EXERCISE Complete exercises 4 to 9 ('if' to 'calculator')
 
-If you have any problems during these, let us know on slack
+If you have any problems during these, let us know on the Blackboard forum.
 
 [Optional] if you want to test your knowledge you could install the SoloLearn app or us it only. If you've one the above you should be able to complete the "Basic Concepts" section here - http://www.sololearn.com/Play/Java/#
 
